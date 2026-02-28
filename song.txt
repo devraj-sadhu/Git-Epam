@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 hey youuu there .
@@ -6,3 +7,7 @@ listen to me ,
 DAtaa engineer
 
 ---------------
+=======
+hey youuu there .
+listen to me
+>>>>>>> parent of b295fe6 (Finish Second Part)

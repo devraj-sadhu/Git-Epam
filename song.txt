@@ -10,8 +10,4 @@ DAtaa engineer
 =======
 hey youuu there .
 listen to me
-<<<<<<< HEAD
 >>>>>>> parent of b295fe6 (Finish Second Part)
-=======
->>>>>>> 3d3b6621b03cdff10fbe49fdb927da8fd3ddb341
->>>>>>> parent of 39de782 (Revert "Finish Second Part")
